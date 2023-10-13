@@ -82,6 +82,8 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [Help Scout for Startups](https://www.helpscout.com/startups/) - Help Scout has everything you need to start talking with customers and growing your business. For eligible startups, your first year with Help Scout is just $50/month.
 - [Drift for Early Stage Startups](https://www.drift.com/startups/) - Using Drift will give you an edge and 10X your business by allowing you to speed up your sales cycles, increase your pipeline, and more. Get 93% off of the Essential Plan for 1 year.
 - [Crisp Startup Program](https://help.crisp.chat/en/article/how-to-apply-to-startup-program-lyfxt4/) - Customers use Crisp to provide a modern customers lifecycle experience for potential customers, generate more qualified leads, enhance customers help, improve customers satisfaction leading to a global increase in the revenue.
+- [Typeform](https://www.typeform.com/typeform-startups/)
+- [Tally](https://tally.so/help/tally-for-startups)
 
 ### Edge Computing
 
@@ -91,6 +93,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 
 - [Postmark](https://postmarkapp.com/for/bootstrapped-startups#pricing) - If you’ve launched your product, are charging for it, and haven’t taken outside investment, contact the Postmark support team and they'll give you $75 account credit to help with your email costs.
 - [SendGrid Accelerate](https://sendgrid.com/accelerate/) - SendGrid Accelerate is a program to help startups succeed. Startups participating in the SendGrid Accelerate program receive 12 months of product credit, access to mentoring, and networking opportunities exclusive to program participants.
+- [Twillo](https://www.twilio.com/en-us/solutions/startups-resources)
 
 ### Hardware
 
